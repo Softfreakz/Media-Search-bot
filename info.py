@@ -26,9 +26,10 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
 START_MSG = """
-**Hi, I'm Media Search bot**
-
-Here you can search files in inline mode. Just press following buttons and start searching.
+**Hello! 👋 I'm Official Media/File Searching 🔎 bot of @Happy2Share**
+Here you can find any dumped files of @Happy2Share which was deleted from @Happy2Share_Main channel
+The bot is authorised to use by admins of @Happy2Share Only!!!😎
+⚠️ 🚫 DO NOT SPAM 🚫 ⚠️
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
