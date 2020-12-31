@@ -26,8 +26,8 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
 START_MSG = """
-**Hello! 👋 I'm Official Media/File Searching 🔎 bot of @Happy2Share**
-Here you can find any dumped files of @Happy2Share which was deleted from @Happy2Share_Main channel
+**Hello! 👋 I'm Official Media/File Searching 🔎 bot of Happy2Share Channel**
+Here you can find any dumped files of Happy2Share which was deleted from @Happy2Share_Main channel & Dump Channel
 The bot is authorised to use by admins of @Happy2Share Only!!!😎
 ⚠️ 🚫 DO NOT SPAM 🚫 ⚠️
 """
